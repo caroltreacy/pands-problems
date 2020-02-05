@@ -7,14 +7,15 @@
 weight = float(input("weight in kg"))
 height = float(input("height in cm"))
 
-heightsquared = height*height
 
-bmi = weight / heightsquared
-
-needed = bmi 
+bmi = weight / (height in squared metres)
 
 
-print = ("your bmi is", needed , bmi: ,)
+
+print = ("your bmi is", bmi ,)
+
+
+
 
 
 
